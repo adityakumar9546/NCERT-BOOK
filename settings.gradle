@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "CBSE CLASS 11th NOTES"
